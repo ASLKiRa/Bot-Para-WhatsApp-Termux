@@ -1,13 +1,11 @@
 ![images.jpg](https://user-images.githubusercontent.com/63880084/103183202-973fdc00-488f-11eb-9b2c-a26d163d2ff1.jpg)
-×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
-
 ×× BOT DE FIGURINHA WHATSAPP ××
 
 ×× O BOT FAZ ××
 
-×× Foto OK ××
-×× Vídeo OK ××
-×× Gif OK ××
+Foto OK 
+Vídeo OK 
+Gif OK 
 
 ×× PESQUISAS DE IMAGENS ××
 
@@ -19,40 +17,40 @@
 ×× Basta dar /imagem sticker + oq deseja procurar ××
  ×× Exemplo /imagem sticker loli ××
 
-××××××××××MT FÁCIL 😳👍 ×××××××××××××××
+         MT FÁCIL 😳👍
 
 
 ×× COMO INSTALAR ××
 
-×× PRIMEIRO INSTALAR O PYTHON ××
+INSTALAR O PYTHON
 
 <pkg install python >
 
-×× SEGUNDO INSTALAR O GIT ××
+INSTALAR O GIT
 
 <pkg install git >
 
-×× TERCEIRO INSTALAR O FFMPEG ××
+INSTALAR O FFMPEG
 
 < pkg install ffmpeg >
 
-×× QUARTO INSTALAR O NODEJS ××
+INSTALAR O NODEJS
 
 < pkg install nodejs >
 
-×× QUINTO CLONAR O REPOSITÓRIO ××
+CLONAR O REPOSITÓRIO
 
 < git clone https://github.com/jlucaso1/TERMUX-WHATSAPP-STICKER-MAKER >
 
-×× SEXTO ENTRAR NO DIRETÓRIO ××
+ENTRAR NO DIRETÓRIO
 
 < cd termux-whatsapp-sticker-maker >
 
-×× SÉTIMO INSTALAR AS PARADAS ××
+INSTALAR AS PARADAS
 
 < npm i >
 
-×× OITAVO INICIAR O BOT ××
+INICIAR O BOT
 
 < node index.js >
 
@@ -60,6 +58,4 @@
 
 ×× AI O BOT JÁ ESTA FUNCIONANDO ××
 
-×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
-
-Credits to [@adiwajshing](https://github.com/adiwajshing/) for the Whatsapp API.
+Créditos para [@adiwajshing](https://github.com/adiwajshing/) pela API do WhatsApp. 
