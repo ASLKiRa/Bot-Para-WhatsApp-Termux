@@ -18,7 +18,7 @@
 ×× Basta dar /imagem sticker + oq deseja procurar ××
  ×× Exemplo /imagem sticker loli ××
 
-×××××××××××××××××× MT FÁCIL 😳👍 ××××××××××××××××××××
+××××××××××MT FÁCIL 😳👍 ×××××××××××××××
 
 
 ×× COMO INSTALAR ××
