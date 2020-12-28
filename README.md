@@ -10,12 +10,12 @@ Gif OK
 ×× PESQUISAS DE IMAGENS ××
 
 ×× Basta dar /imagem + oq deseja procurar ××
- ×× Exemplo /imagem loli ××
+ Exemplo /imagem loli
 
 ×× PESQUISAS IMAGENS FIGURINHA ××
 
 ×× Basta dar /imagem sticker + oq deseja procurar ××
- ×× Exemplo /imagem sticker loli ××
+ Exemplo /imagem sticker loli
 
          MT FÁCIL 😳👍
 
@@ -58,8 +58,8 @@ INICIAR O BOT
 
 < node index.js >
 
-×× AI DEVE APARECER UM CÓDIGO QR SÓ ESCANEAR O CÓDIGO PELO WHATSAPP QUE FUNCIONA ××
+AI DEVE APARECER UM CÓDIGO QR SÓ ESCANEAR O CÓDIGO PELO WHATSAPP QUE FUNCIONA
 
-×× AI O BOT JÁ ESTA FUNCIONANDO ××
+   AI O BOT JÁ ESTA FUNCIONANDO
 
 Créditos para [@adiwajshing](https://github.com/adiwajshing/) pela API do WhatsApp. 
