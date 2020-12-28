@@ -1,3 +1,4 @@
+![images.jpg](https://user-images.githubusercontent.com/63880084/103183202-973fdc00-488f-11eb-9b2c-a26d163d2ff1.jpg)
 ×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
 
 ×× BOT DE FIGURINHA WHATSAPP ××
