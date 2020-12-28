@@ -44,7 +44,7 @@ INSTALAR O NODEJS
 
 CLONAR O REPOSITÓRIO
 
-< git clone https://github.com/jlucaso1/TERMUX-WHATSAPP-STICKER-MAKER >
+< git clone https://github.com/jlucaso1/termux-whatsapp-sticker-maker >
 
 ENTRAR NO DIRETÓRIO
 
