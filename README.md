@@ -1,44 +1,64 @@
-# termux-whatsapp-sticker-maker
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
 
-Works in Windows, Linux, Mac and Termux(Android)
+×× BOT DE FIGURINHA WHATSAPP ××
 
-Requisites:
+×× O BOT FAZ ××
 
-- NodeJS, FFMPEG and git(to clone this repository)
+×× Foto OK ××
+×× Vídeo OK ××
+×× Gif OK ××
 
-In action:
-![screenshot](https://i.imgur.com/YAHG7GJ.png)
+×× PESQUISAS DE IMAGENS ××
 
-Features:
+×× Basta dar /imagem + oq deseja procurar ××
+ ×× Exemplo /imagem loli ××
 
-- Create sticker with photo, GIF or video using caption /sticker.
+×× PESQUISAS IMAGENS FIGURINHA ××
 
-Install on Termux || Linux:
+×× Basta dar /imagem sticker + oq deseja procurar ××
+ ×× Exemplo /imagem sticker loli ××
 
-- Install dependecies
+×××××××××××××××××× MT FÁCIL 😳👍 ××××××××××××××××××××
 
-```
-pkg update && pkg install git nodejs ffmpeg  -y
-```
 
-- Clone this repository
+×× COMO INSTALAR ××
 
-```
-git clone https://github.com/jlucaso1/termux-whatsapp-sticker-maker
-```
+×× PRIMEIRO INSTALAR O PYTHON ××
 
-- Navigate to folder and install node dependencies
+<pkg install python >
 
-```
-cd termux-whatsapp-sticker-maker
-npm install
-```
+×× SEGUNDO INSTALAR O GIT ××
 
-- Run the project
+<pkg install git >
 
-```
-node index.js
-Will be generated a QR CODE
-```
+×× TERCEIRO INSTALAR O FFMPEG ××
+
+< pkg install ffmpeg >
+
+×× QUARTO INSTALAR O NODEJS ××
+
+< pkg install nodejs >
+
+×× QUINTO CLONAR O REPOSITÓRIO ××
+
+< git clone https://github.com/jlucaso1/TERMUX-WHATSAPP-STICKER-MAKER >
+
+×× SEXTO ENTRAR NO DIRETÓRIO ××
+
+< cd termux-whatsapp-sticker-maker >
+
+×× SÉTIMO INSTALAR AS PARADAS ××
+
+< npm i >
+
+×× OITAVO INICIAR O BOT ××
+
+< node index.js >
+
+×× AI DEVE APARECER UM CÓDIGO QR SÓ ESCANEAR O CÓDIGO PELO WHATSAPP QUE FUNCIONA ××
+
+×× AI O BOT JÁ ESTA FUNCIONANDO ××
+
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
 
 Credits to [@adiwajshing](https://github.com/adiwajshing/) for the Whatsapp API.
