@@ -20,6 +20,10 @@ Gif OK
          MT FÁCIL 😳👍
 
 
+
+![Screenshot_20201227-221721.png](https://user-images.githubusercontent.com/63880084/103183458-5ba61180-4891-11eb-994f-c0991fd34d1a.png)
+
+
 ×× COMO INSTALAR ××
 
 INSTALAR O PYTHON
